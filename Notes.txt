@@ -1,2 +1,0 @@
-- Students will have to run about 8 times if they get 200+ bits each time to encode a 4kb image (64x64)
-- Takes 90 sec to run @ 900 numbers w/ 100ms pulse delay
